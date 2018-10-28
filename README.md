@@ -9,5 +9,5 @@
 5) дефолт в инет оставить через inetRouter
 Критерии оценки: 5 - все сделано
 
-Реализовал 1) knocking port
+Реализовал 1) knocking port https://github.com/dmirty/19/blob/master/PORT%20KNOCKING.JPG
 5) дефолт в инет оставить через inetRouter https://github.com/dmirty/19/blob/master/inet%20router%20by%20default.JPG
