@@ -1,4 +1,4 @@
-Д.З 19
+
 Сценарии iptables
 1) реализовать knocking port
 - centralRouter может попасть на ssh inetrRouter через knock скрипт
